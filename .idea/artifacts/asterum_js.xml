@@ -1,6 +1,8 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="asterum-js">
     <output-path>$PROJECT_DIR$/build/libs</output-path>
-    <root id="archive" name="asterum-js.jar" />
+    <root id="archive" name="asterum-js.jar">
+      <element id="module-output" name="asterum.jsMain" />
+    </root>
   </artifact>
 </component>
